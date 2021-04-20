@@ -1,2 +1,2 @@
-# Tilburg-University-Assignment
-Simulation of a general equilibrium model with financial frictions
+# Assignments
+https://github.com/Lbuhmann/Assignments/blob/master/Assignment.ipynb
